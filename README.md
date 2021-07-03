@@ -4,6 +4,7 @@
 
 #### 🌱 I’m currently learning `ReactJS`
 #### Check my projects at [my Github](https://github.com/tnngoan?tab=repositories)
+#### 👯 I’m looking to collaborate on projects that are using ReactJS, NextJS.
 
 #### Visit my [Instagram](https://www.facebook.com/nhungoan2k/ "Instagram")
 #### or drop an email here 📫 `ngoan.personal@gmail.com`
@@ -19,3 +20,10 @@
 
 ### A day in my life
 🎍🚶‍💻🚶‍☕🚶‍🍝🚶‍♀️🛌 
+
+<p align="center">
+	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/tnngoan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nhungoan2k/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/nhu.ngo.an/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
