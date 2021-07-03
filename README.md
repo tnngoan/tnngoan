@@ -12,12 +12,6 @@
 
 #### I play 🎱 sometimes for fun.
 
-![This is me on a date](https://www.facebook.com/photo.php?fbid=775645012843905&set=pb.100011952406177.-2207520000..&type=3 "Me on a date")
-
-#### Yeah I know, it's undefined 😞
-
-> You gotta be kitten me
-
 ### A day in my life
 🎍🚶‍💻🚶‍☕🚶‍🍝🚶‍♀️🛌 
 
