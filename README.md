@@ -6,7 +6,6 @@
 #### Check my projects at [my Github](https://github.com/tnngoan?tab=repositories)
 #### 👯 I’m looking to collaborate on projects that are using ReactJS, NextJS.
 
-#### Visit my [Instagram](https://www.facebook.com/nhungoan2k/ "Instagram")
 #### or drop an email here 📫 `ngoan.personal@gmail.com`
 #### Fun fact: I forgot the fun thing about me 😅
 
