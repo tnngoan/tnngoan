@@ -6,7 +6,7 @@
 #### Check my projects at [my Github](https://github.com/tnngoan?tab=repositories)
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
 
-#### or drop an email here 📫 `ngoan.personal@gmail.com`
+#### or drop an email here 📫 `ngoan.n.tr@gmail.com`
 #### Fun fact: I forgot the fun thing about me 😅
 
 #### I play 🎱 sometimes for fun.
