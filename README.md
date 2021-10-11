@@ -1,6 +1,6 @@
 ## Hi there 👋 This is An :stuck_out_tongue_winking_eye: Good to see you here! :smiley_cat:
 
-### I base in `Ho Chi Minh` :city_sunset:
+### I'm based in `Ho Chi Minh` :city_sunset:
 
 #### 🌱 I’m currently learning `ReactJS`
 #### Check my projects at [my Github](https://github.com/tnngoan?tab=repositories)
