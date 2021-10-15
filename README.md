@@ -3,7 +3,7 @@
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
 #### 🌱 I’m currently learning `ReactJS`
-#### Check [my projects] out (https://github.com/tnngoan?tab=repositories)
+#### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
 
 #### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫 
