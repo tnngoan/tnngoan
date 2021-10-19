@@ -7,7 +7,7 @@
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
 
 #### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫 
-#### Fun fact: I almost have the memory of a gold fish 😅
+#### Fun fact: I could have learned how to use make up but I learned CSS instead. 😛
 
 #### I play 🎱 sometimes for fun.
 
