@@ -2,11 +2,11 @@
 
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
-#### 🌱 I’m currently learning `ReactJS`
+#### 🌱 I’m currently working with `ReactJS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
+#### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
-
-#### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫 
+ 
 #### Fun fact: I could have learned how to use make up but I learned CSS instead. 😛
 
 #### I play 🎱 sometimes for fun.
