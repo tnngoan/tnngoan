@@ -2,7 +2,7 @@
 
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
-#### 🌱 I’m currently working with `ReactJS`
+#### 🌱 I’m currently working with `React JS` and `Next JSJS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 #### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
