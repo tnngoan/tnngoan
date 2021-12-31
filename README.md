@@ -9,7 +9,7 @@
  
 #### Fun fact: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### I play pools sometimes just to stretch my nerves :D
+#### I play pool sometimes just to stretch my nerves :D
 
 <p align="center">
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
