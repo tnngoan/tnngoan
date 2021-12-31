@@ -2,14 +2,14 @@
 
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
-#### 🌱 I’m currently working with `React JS` and `Next JSJS`
+#### 🌱 I’m currently working with `ReactJS` and `NextJS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 #### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
  
 #### Fun fact: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### I play 🎱 sometimes for fun.
+#### I play pools sometimes just to stretch my nerves :D
 
 <p align="center">
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
