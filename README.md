@@ -7,9 +7,9 @@
 #### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
  
-#### Fun fact: I could have learned how to use make up but I learned CSS instead. 😛
+#### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### I play pool sometimes just to stretch my nerves :D
+#### Hobbies: Playing with APIs, playing billiards sometimes as a sport.
 
 <p align="center">
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
