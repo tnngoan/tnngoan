@@ -1,4 +1,4 @@
-## Hi there 👋 This is An :stuck_out_tongue_winking_eye: Good to see you here! :smiley_cat:
+## Hi there 👋 Good to see you here! :smiley_cat:
 
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
