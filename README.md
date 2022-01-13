@@ -4,7 +4,10 @@
 
 #### 🌱 I’m currently working with `ReactJS` and `NextJS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
-#### or drop an [email](mailto:ngoan.n.tr@gmail.com) 📫
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnngoan&count_private=true&theme=react)
+
+#### Send me an email at [ngoan.n.tr@gmail](mailto:ngoan.n.tr@gmail.com) 📫
 #### 👯 I’m looking to collaborate on projects that are using `ReactJS`, `NextJS`.
  
 #### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
