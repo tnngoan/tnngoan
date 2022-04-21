@@ -12,7 +12,7 @@
  
 #### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### Hobbies: Playing with APIs, playing billiards sometimes as a sport.
+#### Hobbies: billiards, chess, coffee, food, walking,...
 
 <p align="center">
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
