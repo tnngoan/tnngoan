@@ -2,7 +2,7 @@
 
 ### I'm based in `Ho Chi Minh` :city_sunset:
 
-#### 🌱 I’m currently learning `Docker` and `AWS`
+#### 🌱 I’m currently learning `AWS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnngoan&count_private=true&theme=react)
