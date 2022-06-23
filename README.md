@@ -2,7 +2,7 @@
 
 ### I'm based in `Vietnam` :city_sunset:
 
-#### 🌱 I'm learning `iOS` development
+#### 🌱 I'm learning `Swift` programming
 #### I’m currently working with `React JS` and `Node JS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 
