@@ -2,8 +2,8 @@
 
 ### I'm based in `Vietnam` :city_sunset:
 
-#### 🌱 I'm learning `Swift` programming
-#### I’m currently working with `React JS` and `Node JS`
+#### 🌱 I'm learning `NodeJS`
+#### I’m currently working with `React JS` and `Next JS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnngoan&count_private=true&theme=react)
