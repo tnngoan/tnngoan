@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnngoan&count_private=true&theme=react)
 
-#### [mail me](mailto:ngoan.n.tr@gmail.com) for work or connect with me on [Facebook](https://www.facebook.com/ngoanntr/) 📫
+#### [Mail me](mailto:ngoan.n.tr@gmail.com) for work or connect with me on [Instagram](https://www.instagram.com/nhu.ngo.an/) 📫
 #### 👯 I’m looking to collaborate on projects that are using `Node JS`
  
 #### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
