@@ -6,6 +6,8 @@
 #### Currently working with `React JS` and `Node JS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 
+![](https://komarev.com/ghpvc/?username=tnngoan&color=yellow)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnngoan&count_private=true&theme=react)
 
 #### [Mail me](mailto:ngoan.n.tr@gmail.com) for work or connect with me on [WhatsApp](https://wa.me/84348474116) 📫
