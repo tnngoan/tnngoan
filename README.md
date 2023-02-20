@@ -20,5 +20,5 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/tnngoan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://facebook.com/ngoanntr"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
+	<a href="https://discord.com/users/ananananan#4847"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a>
 </p>
