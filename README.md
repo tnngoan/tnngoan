@@ -2,7 +2,6 @@
 
 ### I'm based in `Vietnam` :city_sunset:
 
-#### 🌱 I'm learning `Swift`
 #### Currently working with `React JS` and `Node JS`
 #### Check out [my projects](https://github.com/tnngoan?tab=repositories)
 
@@ -15,7 +14,7 @@
  
 #### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### Hobbies: travelling, networking, hiking,...
+#### Hobbies: cooking, travelling, hiking,...
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/tnngoan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
