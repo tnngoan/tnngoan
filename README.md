@@ -14,8 +14,6 @@
  
 #### Fun fact about me: I could have learned how to use make up but I learned CSS instead. 😛
 
-#### Hobbies: billiards, cooking, traveling, piano, hiking,...
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/tnngoan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/tnngoan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
