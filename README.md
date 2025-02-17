@@ -1,6 +1,6 @@
 ## Heyyy! :smiley_cat:
 
-#### Currently working on my ` ![slow mornings](https://www.instagram.com/hatdebingo/) ` from `Vietnam` :city_sunset:
+#### Currently working on my ![slow mornings](https://www.instagram.com/hatdebingo/) from `Vietnam` :city_sunset:
 
 ![](https://komarev.com/ghpvc/?username=tnngoan&color=yellow) 
 
